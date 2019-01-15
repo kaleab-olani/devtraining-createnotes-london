@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_instance">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
     <sp_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <class_name/>
@@ -12,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="2">cf295ae1094232007f44e1046c8ff616</sp_column>
-        <sp_widget display_value="Notes Body">d06529694f7d4f004e584b8d0210c7b7</sp_widget>
+        <sp_widget display_value="">d06529694f7d4f004e584b8d0210c7b7</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-14 01:29:02</sys_created_on>
